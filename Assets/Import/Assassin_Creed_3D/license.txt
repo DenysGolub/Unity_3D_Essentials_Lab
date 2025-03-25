@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assassin Creed 3D
+* source:	https://sketchfab.com/3d-models/assassin-creed-3d-186647f834a44552a9c98c21b6f44a94
+* author:	kremsonkhan (https://sketchfab.com/kremsonkhan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assassin Creed 3D" (https://sketchfab.com/3d-models/assassin-creed-3d-186647f834a44552a9c98c21b6f44a94) by kremsonkhan (https://sketchfab.com/kremsonkhan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
